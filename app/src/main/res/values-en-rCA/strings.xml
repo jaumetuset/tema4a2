@@ -1,0 +1,19 @@
+<resources>
+    <!-- login -->
+    <string name="app_name">t3-a3-tuset-jaume</string>
+    <string name="placeholder_user">Enter your user name</string>
+    <string name="placeholder_passwd">Enter password </string>
+    <!-- activity  -->
+    <string name="pos_global">Global Position</string>
+    <string name="mov">Movements</string>
+    <string name="trans">Transfers</string>
+    <string name="change_passwd">Change Password</string>
+    <string name="promociones">Promotions</string>
+    <string name="cajeros">Chasiers</string>
+    <string name="salir">Exit</string>
+    <string name="message">Welcome Mr./Mrs. </string>
+    <!-- welcome  -->
+    <string name="welcome_text">Welcome to my bank</string>
+    <string name="btn_entrar">LOG IN</string>
+
+</resources>

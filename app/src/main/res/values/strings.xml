@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name" translatable="false">t3-a3-tuset-jaume</string>
+    <!-- login -->
+        <string name="placeholder_user" translatable="false">Introduce el usuario</string>
+        <string name="placeholder_passwd" translatable="false">Introduce la contraseña </string>
+    <!-- activity  -->
+    <string name="pos_global">Posición Global</string>
+    <string name="mov">Movimientos</string>
+    <string name="trans">Transferencias</string>
+    <string name="change_passwd">Cambiar Contraseña</string>
+    <string name="promociones">Promociones</string>
+    <string name="cajeros">Cajeros</string>
+    <string name="salir">Salir</string>
+    <string name="message">Bienvenido/a a</string>
+
+    <!-- welcome  -->
+    <string name="welcome_text" translatable="false">Bienvenido/a a mi banco</string>
+    <string name="btn_entrar" translatable="false">ENTRAR</string>
+
+
+</resources>
